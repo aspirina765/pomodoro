@@ -28,8 +28,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-- NodeJS - [v16.x](https://nodejs.org/en/)
-- [Yarn](https://yarnpkg.com/)
+- Docker - (https://www.docker.com/)
+
 
 ### Setup
 
